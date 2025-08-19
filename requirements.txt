@@ -1,0 +1,7 @@
+flask
+sqlalchemy
+pymysql
+pillow
+pytesseract
+PyMuPDF
+python-dotenv

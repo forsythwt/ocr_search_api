@@ -1,0 +1,1 @@
+from .app import create_app  # for `flask --app backend:create_app run`
